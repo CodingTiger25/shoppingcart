@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function ShopPage() {
+export function Product() {
   return (
     <div>
       <h1>Welcome to the Shop Page</h1>
@@ -11,5 +11,3 @@ function ShopPage() {
 }
 
 
-
-export default ShopPage;
